@@ -8,8 +8,8 @@ import { Input } from '../../components/Input';
 export function SignIn() {
   return (
     <Container>
-      <Title>supermarketlist</Title>
-      <Subtitle>monte sua lista de compra te ajudar nas compras</Subtitle>
+      <Title>Supermarket List</Title>
+      <Subtitle>Organize sua lista de compras</Subtitle>
 
       <Input
         placeholder="e-mail"
